@@ -1,0 +1,21 @@
+Working Pipeline Architecture
+
+Processing architecture:
+1 - input video to data/raw in either healthy or unhealthy
+2 - standardize_video.py will take the raw video and procesvit and place it 
+    into data/processed
+3 - extract frames from the processed video and place in data/frames
+4 - keypoints will add the exoskeleton, use mediapipe for now deepcut later
+
+Training:
+
+
+
+Backend:
+
+
+
+
+Frontend:
+
+1 - Plan is to incorporate the react code and make improvements

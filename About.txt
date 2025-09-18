@@ -1,0 +1,10 @@
+The Dog Gait Project:
+
+Senior Capstone of Andrew Joffe, Nate Swanson, and Damian Bianchi
+Villanova University of Computer/Electrical Engineering 2025-2026
+
+In this project we hope to build an e2e web app allowing users to 
+input a video of a dog walking and for our ml algo to give a 
+healthy v unhealthy diagnosis.
+
+Thank you!
